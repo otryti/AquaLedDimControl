@@ -1,12 +1,14 @@
 # AquaLedDimControl
 Control LED lighting for aquarium using an Arduino Uno
 
-**AquaLedDimControl.ino** controls sunrise and sunset with power-LEDs that are driven by a Mean Well DC-DC Constant Current Step-Down LED driver.
-These drivers are controlled by a PWM input.
+**AquaLedDimControl.ino** controls sunrise and sunset with power-LEDs that are driven by a Mean Well DC-DC Constant Current Step-Down LED driver. These drivers are controlled by a PWM input.
+
 A *DS3231* real time clock is used to keep time, and a 16x2 LCD display to show date, time and current brightness. Both of these use the I2C protocol.
+
 The *DS3231* is always on winter time, during *Daylight Saving Time* the time is adjusted one hour forward after reading it from the *DS3231*. The flavour of DST used here is the European version, where the change occurs at 02.00 on the last Sunday of March and October.
 
 **SetRTC.ino** is used to set the time on the *DS3231*, and to test any time related routines (determining if Daylight Saving is in effect).
+
 Code to set and read the *DS3231* RTC: http://www.goodliffe.org.uk/arduino/i2c_devices.php
 
 ## Controlling brightness
