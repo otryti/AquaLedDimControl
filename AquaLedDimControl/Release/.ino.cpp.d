@@ -14,7 +14,8 @@
  C:\EclipseNeon\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.13\cores\arduino/Stream.h \
  C:\EclipseNeon\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.13\libraries\LiquidCrystal_I2C/LiquidCrystal_I2C.h \
  C:\EclipseNeon\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.13\cores\arduino/Print.h \
- ../AkvaDimControl.ino
+ C:\EclipseNeon\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.13\libraries\IRReadOnlyRemote/IRReadOnlyRemote.h \
+ ../AquaLedDimControl.ino
 
 C:\EclipseNeon\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.13\cores\arduino/Arduino.h:
 
@@ -46,4 +47,6 @@ C:\EclipseNeon\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.13\librar
 
 C:\EclipseNeon\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.13\cores\arduino/Print.h:
 
-../AkvaDimControl.ino:
+C:\EclipseNeon\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.13\libraries\IRReadOnlyRemote/IRReadOnlyRemote.h:
+
+../AquaLedDimControl.ino:

@@ -42,6 +42,11 @@
 			<location>C:/EclipseNeon/eclipse/arduinoPlugin/packages/arduino/hardware/avr/1.6.13/variants/standard</location>
 		</link>
 		<link>
+			<name>libraries/IRReadOnlyRemote</name>
+			<type>2</type>
+			<location>C:/EclipseNeon/eclipse/arduinoPlugin/packages/arduino/hardware/avr/1.6.13/libraries/IRReadOnlyRemote</location>
+		</link>
+		<link>
 			<name>libraries/LiquidCrystal_I2C</name>
 			<type>2</type>
 			<location>C:/EclipseNeon/eclipse/arduinoPlugin/packages/arduino/hardware/avr/1.6.13/libraries/LiquidCrystal_I2C</location>
